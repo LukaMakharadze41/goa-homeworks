@@ -10,7 +10,15 @@ countre = 'georgia'
 
 print(name , last_name , age , hobi , countre)
 
-# დავალება N1
+#პრინტის მეორე ვერსია!!!
+
+print(name)
+print(last_name)
+print(age)
+print(hobi)
+print(countre)
+
+# დავალება N2
 
 name = 'luka'
 last_name = 'makharadze'
