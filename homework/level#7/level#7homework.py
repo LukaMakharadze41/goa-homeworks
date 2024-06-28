@@ -8,33 +8,35 @@ d = input("enter 'd' number:")
 print(a + b + c + d)
 
 #2
-l=input('enter your mothers age:')
-m=input('enter your fathers age:')
-q=input('enter your grandmothers age:')
-j=input('enter your grandfathers age:')
+input('enter your mothers age:')
+input('enter your fathers age:')
+input('enter your grandmothers age:')
+input('enter your grandfathers age:')
 
-print(l+str(20))
-print(m+str(20))
-print(q+str(20))
-print(j+str(20))
+print(int(l)+20)
+print(int(m)+20)
+print(int(q)+20)
+print(int(j)+20)
 
 #3
-name ='luka'
-last_name='maxaradze'
-age=11
-qountry='georgia'
-city='tbillisi'
-favorite_food='eg with brad'
-favorite_car='tesla and mercedec'                
-favorite_sport='basketball and football'
-favorite_color='rec,black,white and bloo'
+input('enter ur name:') 
+input('last_name:')
+input('age:')
+input('qountry:')
+input("city:")
+input('favorite_food:')
+input('avorite_car:')               
+input('favorite_sport:')
+input('favorite_color:')
 
-print(name +' '+last_name +' ' + str(age) +' '+ qountry +' ' + city + ' ' + favorite_food +' ' +favorite_car +' ' + favorite_sport + ' ' + favorite_color)
+print(a+b+c+d+e+f+g+h+i)
 
-# 4
-input('user enter your name:')
+#4
 
-input('user enter congrutalation by using ur name:')
+
+input('enter your name:')
+
+input('enter congrutalation by using ur name:')
 
 #5
 
