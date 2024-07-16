@@ -8,28 +8,28 @@ d = input("enter 'd' number:")
 print(a + b + c + d)
 
 #2
-input('enter your mothers age:')
-input('enter your fathers age:')
-input('enter your grandmothers age:')
-input('enter your grandfathers age:')
+e=input('enter your mothers age:')
+f=input('enter your fathers age:')
+g=input('enter your grandmothers age:')
+h=input('enter your grandfathers age:')
 
-print(int(l)+20)
-print(int(m)+20)
-print(int(q)+20)
-print(int(j)+20)
+print(int(e)+20)
+print(int(f)+20)
+print(int(g)+20)
+print(int(h)+20)
 
 #3
-input('enter ur name:') 
-input('last_name:')
-input('age:')
-input('qountry:')
-input("city:")
-input('favorite_food:')
-input('avorite_car:')               
-input('favorite_sport:')
-input('favorite_color:')
+i=input('enter ur name:') 
+j=input('last_name:')
+k=input('age:')
+l=input('qountry:')
+m=input("city:")
+n=input('favorite_food:')
+o=input('avorite_car:')               
+p=input('favorite_sport:')
+q=input('favorite_color:')
 
-print(a+b+c+d+e+f+g+h+i)
+print(i+j+k+l+m+n+o+p+q)
 
 #4
 
