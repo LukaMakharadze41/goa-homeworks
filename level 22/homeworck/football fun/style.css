@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family:cursive,georgia,monospace,roboto;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: rgb(72, 68, 68);
+}
+button{
+    background-image: image(url(../../../goa.jpeg));
+    text-decoration: none;
+}
