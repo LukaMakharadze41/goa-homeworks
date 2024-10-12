@@ -1,0 +1,144 @@
+body{
+    background-color: red;
+}
+/* */
+
+.a1:link {
+    color: rgb(149, 255, 0);
+    text-decoration: none;
+}
+
+.a2:link {
+    color: rgb(149, 255, 0);
+    text-decoration: none;
+}
+
+.a3:link {
+    color: rgb(149, 255, 0);
+    text-decoration: none;
+}
+
+.a4:link {
+    color: rgb(149, 255, 0);
+    text-decoration: none;
+}
+
+.a5:link {
+    color: rgb(149, 255, 0);
+    text-decoration: none;
+}
+
+/* visited */
+
+.b1:visited {
+    color: cornflowerblue;
+    text-decoration: overline dotted;
+}
+
+.b2:visited {
+    color: cornflowerblue;
+    text-decoration:  line-through dotted;
+}
+
+.b3:visited {
+    color: cornflowerblue;
+    text-decoration:  line-through dotted;
+}
+
+.b4:visited {
+    color: cornflowerblue;
+    text-decoration:  line-through dotted;
+}
+
+.b5:visited {
+    color: cornflowerblue;
+    text-decoration:  line-through dotted;
+}
+
+/* hover */
+
+.c1{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+
+    transition: 3s;
+}
+
+.c1:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+    font-size: 6.5em;
+}
+
+
+.c2{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+
+    transition: 3s;
+}
+
+.c2:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+    font-size: 6.5em;
+}
+
+.c3{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+
+    transition: 3s;
+}
+
+.c3:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+    font-size: 6.5em;
+}
+
+.c4{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+
+    transition: 3s;
+}
+
+.c4:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+    font-size: 6.5em;
+}
+
+.c5{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+
+    transition: 3s;
+}
+
+.c5:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 4px;
+    font-size: 6.5em;
+}
