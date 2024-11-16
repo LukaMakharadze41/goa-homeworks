@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(0, 0, 72);
+}
+div{
+    color: rgb(255, 255, 255);
+    border-radius: 0px;
+    height: 700px;
+    width: 500px;
+    text-align: center;
+    background-color: azure;
+}
+::placeholder{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgba(240, 248, 255, 0.21);
+    font-size: smaller;
+}
+.a5{
+    width: 340px;
+}
+.a6{
+    width: 340px;
+}
+.a7{
+    width: 340px;    
+}
+.a8{
+    width: 340px;
+}
+.a9{
+    width: 340px;
+}
+.a10{
+    height: 100px;
+    width: 340px;
+}
+.a11{
+    background-color: coral;
+    border-radius: 5%;
+    text-align: right;
+}
+.a12{
+    background-color: coral;
+    border-radius: 5%;
+    text-align: right;
+}
