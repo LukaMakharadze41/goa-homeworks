@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(243, 234, 227);
+}
+div{
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    font-family: monospace;
+    text-align: center;
+    color: beige;
+}
+
+img{
+    display: block;
+    height: 300px;
+}
+
+p{
+    display: inline-block;
+}
+
+.a2{
+    font-size: 40px;
+    color: darkgreen;
+}
+
+.a1{
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.575);
+
+}
+
+button{
+    display: block;
+    width: 365px;
+    background-color: darkgreen;
+    border-radius: 15%;
+    font-size: 30px;
+}
+.a3{
+    display: block;
+    color: rgba(0, 0, 0, 0.575);
+    text-align: left;
+}
+
+.a4{
+    color: black;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+
+.a5{
+    display: block;
+    color: rgba(0, 0, 0, 0.575);
+    text-align: left;
+    font-style: italic;
+    font-size: 15px;
+}
