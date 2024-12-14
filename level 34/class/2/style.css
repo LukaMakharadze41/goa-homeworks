@@ -1,0 +1,71 @@
+.a1{
+    background-color: red;
+    height: 40em;
+    width: 40em;
+    font-family: cursive;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a1:hover{
+    transition: 5s;
+    transform: rotate(3600deg);
+}
+
+
+
+
+.a2{
+    background-color: red;
+    height: 40em;
+    width: 40em;
+    font-family: cursive;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a2:hover{
+    transition: 5s;
+    transform: translate(100px, 50px); 
+}
+
+
+
+
+.a3{
+    background-color: red;
+    height: 40em;
+    width: 40em;
+    font-family: cursive;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a3:hover{
+    transition: 5s;
+    transform: scale(0.00000000000000000000000000000000000000000000001); 
+}
+
+
+
+.a4{
+    background-color: red;
+    height: 40em;
+    width: 40em;
+    font-family: cursive;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a4:hover{
+    transition: 5s;
+    transform: skew(100deg, 100deg); 
+}

@@ -1,0 +1,9 @@
+div{
+    background-color: darkblue;
+}
+div:hover{
+    transition: 1s;
+    background-color:color-mix(in srgb, color percentage, color percentage) ;
+    box-shadow: black;
+    transform: scale(1.1);
+}

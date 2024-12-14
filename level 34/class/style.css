@@ -1,0 +1,11 @@
+div{
+    color: rgb(21, 246, 0);
+    background-color: red;
+    width: 300px;
+}
+
+div:hover{
+    transition: 3s;
+    transform: rotate(15deg);
+    background-color: darkblue;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+img:hover{
+    transition: 1s;
+    transform: rotate(30deg);
+}
+div{
+    background-color: red;
+    color: blue;
+    width: 275px;
+}
+
+div:hover{
+    transition: 0.9s;
+    transform: rotate(30deg) scale(1.2);
+}
+
+a{
+    color:darkgrey;
+}
+
