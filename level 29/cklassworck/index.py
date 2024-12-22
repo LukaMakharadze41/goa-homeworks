@@ -20,7 +20,3 @@ def even(n):
     else:
         return False
 print(even)
-#4
-def none(n):
-    res=0
-        return 
