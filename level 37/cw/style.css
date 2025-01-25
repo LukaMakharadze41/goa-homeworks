@@ -1,0 +1,12 @@
+img{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+    background-color: red;
+    color: blue;
+    font-family: cursive,monospace;
+
+    -webkit-box-align: center;
+    -webkit-box-direction: reverse;
+
+}

@@ -1,0 +1,31 @@
+*{
+    background-color: rgba(234, 234, 234, 0.838);
+}
+
+body{
+    height: 10000px;
+    border-color:  solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 20em;
+}
+
+div{
+    background-color:rgba(226, 116, 43, 0.805) ;
+    margin: 3px;
+}
+
+.a2{
+    display: grid;
+    
+}
+.a3{
+    display: grid;
+}
+.a4{
+    display: grid;
+}
