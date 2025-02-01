@@ -1,0 +1,50 @@
+body{
+    width: 100vh;
+    font-family: cursive;
+}
+img{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+} 
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-left: ;
+}
+
+main p{
+    background-color: rgb(110, 110, 110);
+    width: 1000px;
+}
+
+p{
+    font-weight: 900;
+    font-family: cursive;
+    font-size: 30px;
+
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(110, 110, 110);
+}
+
+@media (max-width:768px) {
+        img{
+            border-radius: 50%;
+            display:flex;
+            justify-content: center;
+        }
+
+        h1,main p{
+            display: none;
+        }
+
+
+}
