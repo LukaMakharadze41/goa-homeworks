@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(57, 57, 57);
+}
+
+
+div{
+    width: 400px;
+    height: 900px;
+    background-color: rgb(78, 77, 77);
+    color: rgb(255, 0, 0);
+    border-radius: 5%;
+}
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 15%;
+    background-color: darkgrey;
+    color: azure;
+    font-family: monospace;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+@media (max-width:777px) {
+    body{
+        background-color: rgb(99, 16, 16);
+    }
+    div{
+        background-color: rgb(9, 9, 68);
+    }
+    button{
+        background-color: rgba(66, 164, 250, 0.784);
+    }
+}
