@@ -1,0 +1,15 @@
+#parent{
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+    gap: 5px;
+    border: 2px solid black;
+
+    grid-template-areas:
+    "a1   a1   a1   a1 "
+    "a2   a2   a3   a4 "
+    "a2   a2   a5   a5 "
+    "a6  a6   a6   a7 "
+    "a8   a8   a8  a8  "
+}
